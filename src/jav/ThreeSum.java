@@ -35,7 +35,7 @@ public class ThreeSum {
     }
     public static void main(String[] args){
             int[] numbers = {-1,0,1,2,-1,-4};
-            ThreeSum threeSum = new ThreeSum                        ();
+            ThreeSum threeSum = new ThreeSum();
             System.out.println(threeSum.threeSum(numbers));
         }
     }

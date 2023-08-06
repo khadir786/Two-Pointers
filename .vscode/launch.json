@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Container",
+            "request": "launch",
+            "mainClass": "jav.Container",
+            "projectName": "Two Pointers_356e1532"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
